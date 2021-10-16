@@ -1,2 +1,0 @@
-# contract adress: 0x4e1bf0b4e9f1c3c99dc05e7c836d26ffdb1ffa2d
-transaction hash: https://bscscan.com/tx/0x7ea77c7474352e628c8f9f639c6204d8e1d5644626f62a05afd7a6eece343293
